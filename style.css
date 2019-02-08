@@ -121,7 +121,7 @@ header {
   color: rgba(112, 112, 112, .55);
 }
 
-button {
+guest button {
   font-size: 0.78em;
   margin-top: 1.65em;
   margin-right: 0.4em;
@@ -131,7 +131,7 @@ button {
   background-color: #58b7cd;
 }
 
-button:last-child {
+guest button:last-child {
   background-color: rgba(88, 183, 205, 0.5);
 }
 
